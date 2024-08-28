@@ -1,16 +1,5 @@
-# public
+# RPS Rumble
 
-A new Flutter project.
+Proyecto donde aplicaremos la `Clean Architecture` con `dependency injection` y `bloc`. Encuentra todo los articulos en la serie de:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[De Cero a Flutter: Mi Viaje para Construir una App y Compartir lo Aprendido](https://dev.to/betoflakes/series/28447)
